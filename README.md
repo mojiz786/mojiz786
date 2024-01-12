@@ -1,5 +1,13 @@
 # 💫 About Me:
-## Welcome to my GitHub 👋<br><br>### About me :)<br>- Myself Mirza Mojiz Abbas.<br>- I'm a final year student at UPES Dehradun doing B.Tech CSE.<br>- I am a cloud computing enthusiast.<br>- I am an ex-intern at IBM.<br>- Talking about my hobbies, I love to travel, play cricket and football, and watching sci-fi web series.<br>-  I’m currently working as a Digital Evangelist at StatusNeo.<br>- I’m currently learning more about AWS and Salesforce.<br>
+## Welcome to my GitHub 👋<br>
+### About me :)<br>
+- Myself Mirza Mojiz Abbas.<br>
+- I'm a final year student at UPES Dehradun doing B.Tech CSE.<br>
+- I am a cloud computing enthusiast.<br>
+- I am an ex-intern at IBM.<br>
+- Talking about my hobbies, I love to travel, play cricket and football, and watching sci-fi web series.<br>
+-  I’m currently working as a Digital Evangelist at StatusNeo.<br>
+- I’m currently learning more about AWS and Salesforce.<br>
 
 
 ## 🌐 Socials:
